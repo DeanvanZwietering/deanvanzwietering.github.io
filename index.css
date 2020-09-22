@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    overflow: hidden;
+    grid-template-columns: 25vw 50vw 25vw;
+    grid-template-rows: 20vh 65vh 15vh;
+}
+
+
+header {
+    margin: 15px 130px;
+    padding: 20px;
+    border: black 1px solid;
+    border-radius: 35px;
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+    grid-column: 1/4;
+    grid-row: 1/2;
+}
+
+#startScreen {
+    display: flex;
+    justify-content: center;
+    border: black 1px solid;
+    grid-column: 1/4;
+    grid-row: 2/3;
+}
+
+.player {
+    height: 150px;
+    margin: 0 25px;
+    border: black 1px solid;
+    border-radius: 20px;
+    flex-flow: column;
+}
+
+footer {
+    border: black 1px solid;
+    text-align: center;
+    grid-column: 1/4;
+    grid-row: 3/4;
+}
