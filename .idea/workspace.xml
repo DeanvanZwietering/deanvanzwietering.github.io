@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="171c73e6-3a14-4fe4-9e20-d566ce2d4161" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/startup.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +36,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -54,6 +57,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\funny\WebstormProjects\VierOpEenRij\css" />
+      <recent name="C:\Users\funny\WebstormProjects\VierOpEenRij\js\controllers" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +72,10 @@
       <option name="presentableId" value="Default" />
       <updated>1600347391436</updated>
       <workItem from="1600347392497" duration="58000" />
-      <workItem from="1600767661293" duration="7194000" />
+      <workItem from="1600767661293" duration="7488000" />
+      <workItem from="1600875265025" duration="3087000" />
+      <workItem from="1600945577960" duration="10386000" />
+      <workItem from="1601283639636" duration="6459000" />
     </task>
     <servers />
   </component>
@@ -80,5 +92,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600876325048">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="432" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1600876325048" />
+    <state x="350" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1601287679820">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="350" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1601287679820" />
   </component>
 </project>
