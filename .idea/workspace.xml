@@ -20,11 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="171c73e6-3a14-4fe4-9e20-d566ce2d4161" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/player.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/startup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/controller/ControllerVierOpEenRij.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/model/ModelVierOpEenRij.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/model/Player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/view/ViewVierOpEenRij.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/player.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/startup.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/startup.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +56,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -75,7 +80,10 @@
       <workItem from="1600767661293" duration="7488000" />
       <workItem from="1600875265025" duration="3087000" />
       <workItem from="1600945577960" duration="10386000" />
-      <workItem from="1601283639636" duration="6459000" />
+      <workItem from="1601283639636" duration="24372000" />
+      <workItem from="1601977437261" duration="6725000" />
+      <workItem from="1602059749426" duration="6122000" />
+      <workItem from="1602143800009" duration="13905000" />
     </task>
     <servers />
   </component>
@@ -95,10 +103,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="140" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602158299567">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="140" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1602158299567" />
     <state x="432" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600876325048">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="432" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1600876325048" />
+    <state x="344" y="201" key="run.anything.popup" timestamp="1602155693987">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="344" y="201" key="run.anything.popup/0.0.1368.872@0.0.1368.872" timestamp="1602155693987" />
     <state x="350" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1601287679820">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
