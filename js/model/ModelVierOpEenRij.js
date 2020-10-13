@@ -1,4 +1,5 @@
 export class ModelVierOpEenRij {
+
     constructor() {
         this.vakjes=new Array(6);
         for(let i=0;i<7;i++)
@@ -9,7 +10,7 @@ export class ModelVierOpEenRij {
         for(let i=0;i<6;i++){
             for(let j=0;j<7;j++)
             {
-                this.vakjes[i][j]="leeg";
+                this.vakjes[i][j]="white";
             }
         }
     }

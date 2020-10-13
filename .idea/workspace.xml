@@ -20,15 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="171c73e6-3a14-4fe4-9e20-d566ce2d4161" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/controller/ControllerVierOpEenRij.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/model/ModelVierOpEenRij.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/model/Player.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/view/ViewVierOpEenRij.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/player.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/startup.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/startup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/controller/ControllerVierOpEenRij.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/controller/ControllerVierOpEenRij.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/model/ModelVierOpEenRij.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/model/ModelVierOpEenRij.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/view/ViewVierOpEenRij.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/view/ViewVierOpEenRij.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +81,8 @@
       <workItem from="1601977437261" duration="6725000" />
       <workItem from="1602059749426" duration="6122000" />
       <workItem from="1602143800009" duration="13905000" />
+      <workItem from="1602233871472" duration="22711000" />
+      <workItem from="1602582584817" duration="1581000" />
     </task>
     <servers />
   </component>
@@ -111,10 +110,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="432" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1600876325048" />
-    <state x="344" y="201" key="run.anything.popup" timestamp="1602155693987">
+    <state x="345" y="202" key="run.anything.popup" timestamp="1602497192373">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="344" y="201" key="run.anything.popup/0.0.1368.872@0.0.1368.872" timestamp="1602155693987" />
+    <state x="345" y="202" key="run.anything.popup/0.0.1368.872@0.0.1368.872" timestamp="1602497192373" />
     <state x="350" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1601287679820">
       <screen x="0" y="0" width="1368" height="872" />
     </state>

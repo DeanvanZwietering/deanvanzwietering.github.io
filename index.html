@@ -9,28 +9,34 @@
         <header>
             Vier Op Een Rij
         </header>
+        <aside id="player1_aside" class="hidden">
+            <div id="player1_input_name">Player 1</div>
+            <div id="player1_select_color"></div>
+        </aside>
         <main>
             <div id="startScreen" class="flexbox">
                 <div class="player">
+                    <h1>Speler 1</h1><br>
                     <span>Name:</span><br>
-                    <input type="text" class="player_name" name="player_name"><br><br>
+                    <input type="text" class="player_name" name="player_name" placeholder="Speler1" maxlength="12"><br><br>
                     <span>Color:</span><br>
                     <select class="player_color" name="player_color">
-                        <option value="red">Red</option>
-                        <option value="blue">Blue</option>
-                        <option value="yellow">Yellow</option>
-                        <option value="green">Green</option>
+                        <option value="red">Rood</option>
+                        <option value="blue">Blauw</option>
+                        <option value="yellow">Geel</option>
+                        <option value="green">Groen</option>
                     </select>
                 </div>
                 <div class="player">
+                    <h1>Speler 2</h1><br>
                     <span>Name:</span><br>
-                    <input type="text" class="player_name" name="player_name"><br><br>
+                    <input type="text" class="player_name" name="player_name" placeholder="Speler2" maxlength="12"><br><br>
                     <span>Color:</span><br>
                     <select class="player_color" name="player_color">
-                        <option value="red">Red</option>
-                        <option value="blue">Blue</option>
-                        <option value="yellow">Yellow</option>
-                        <option value="green">Green</option>
+                        <option value="red">Rood</option>
+                        <option value="blue">Blauw</option>
+                        <option value="yellow">Geel</option>
+                        <option value="green">Groen</option>
                     </select>
                 </div>
                 <button type="button" id="btnStart">Start Game</button>
@@ -85,6 +91,10 @@
                 <div></div>
             </div>
         </main>
+        <aside id="player2_aside" class="hidden">
+            <div id="player2_input_name">Player 1</div>
+            <div id="player2_select_color"></div>
+        </aside>
         <footer>
             © 2020 Dean van Zwietering.
         </footer>

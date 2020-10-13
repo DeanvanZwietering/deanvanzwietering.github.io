@@ -4,12 +4,14 @@
     box-sizing: border-box;
 }
 
+
 body {
     display: grid;
     overflow: hidden;
     grid-template-columns: 25vw 50vw 25vw;
     grid-template-rows: 20vh 65vh 15vh;
 }
+
 
 header {
     margin: 15px 130px;
@@ -23,15 +25,6 @@ header {
     grid-row: 1/2;
 }
 
-#player1 {
-    grid-column: 1/2;
-    grid-row: 2/3
-}
-
-main {
-    grid-column: 2/3;
-    grid-row: 2/3;
-}
 
 .flexbox {
     display: flex;
@@ -40,9 +33,35 @@ main {
     display: none;
 }
 
+
+#player1_aside {
+    flex-flow: column;
+    margin: auto;
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+#player1_aside > div {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px auto;
+}
+#player1_select_color {
+    border: 1px black solid;
+    background-color: red;
+    width: 125px;
+    height: 125px;
+}
+
+
+main {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+
+
 #startScreen {
     flex-flow: row;
-    margin: 12.5%;
+    margin: 12.5% auto;
 }
 
 #startScreen > .player {
@@ -51,12 +70,11 @@ main {
     border-radius: 10px;
     width: 180px;
     height: 300px;
-
 }
 
 #gameScreen {
     flex-flow: row wrap;
-    margin: 12.5%;
+    margin: 12.5% auto;
     width: 420px;
 }
 
@@ -66,6 +84,26 @@ main {
     width: 60px;
     height: 60px;
 }
+
+
+#player2_aside {
+    flex-flow: column;
+    margin: auto;
+    grid-column: 3/4;
+    grid-row: 2/3;
+}
+#player2_aside > div {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px auto;
+}
+#player2_select_color {
+    border: 1px black solid;
+    background-color: blue;
+    width: 125px;
+    height: 125px;
+}
+
 
 footer {
     border: black 1px solid;
